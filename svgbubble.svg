@@ -1,0 +1,67 @@
+<svg width="64" height="64" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+
+  <svg width="22" height="22" viewBox="3 2 25 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="sTfiC">
+  <g filter="url(#fe0d983064924318a8c5407da351e3cd547b8ba1__a)">
+    <path d="M13.92 1.867c-2.006 0-3.754 1.21-4.663 2.998a4.888 4.888 0 0 0-.615-.039c-2.943 0-5.33 2.604-5.33 5.816 0 1.113.287 2.153.784 3.037a6.263 6.263 0 0 0-.39 2.188c0 3.211 2.386 5.815 5.33 5.815.148 0 .295-.007.44-.02.954 1.57 2.589 2.605 4.444 2.605 1.335 0 2.555-.536 3.49-1.42a4.949 4.949 0 0 0 2.284.558c2.85 0 5.177-2.441 5.322-5.512 1.597-1.005 2.672-2.886 2.672-5.042 0-2.422-1.358-4.498-3.288-5.373-.604-2.487-2.681-4.319-5.15-4.319a4.92 4.92 0 0 0-1.674.292c-.954-.982-2.24-1.584-3.656-1.584Z" fill="#000"/>
+  </g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M13.92 2.333c1.248 0 2.424.52 3.32 1.443l.21.217.286-.103a4.45 4.45 0 0 1 1.514-.264c2.206 0 4.13 1.636 4.695 3.962l.053.22.208.095c1.804.817 3.013 2.756 3.013 4.948 0 1.945-.951 3.702-2.454 4.647l-.206.13-.012.243c-.133 2.842-2.274 5.067-4.853 5.067a4.477 4.477 0 0 1-2.068-.506l-.296-.153-.243.229c-.877.83-1.99 1.292-3.167 1.292-1.639 0-3.144-.901-4.042-2.38l-.152-.249-.291.027a4.496 4.496 0 0 1-.4.017c-2.674 0-4.86-2.385-4.86-5.348 0-.705.123-1.39.36-2.026l.076-.202-.106-.189a5.722 5.722 0 0 1-.724-2.808c0-2.963 2.186-5.35 4.86-5.35.188 0 .374.013.557.036l.328.041.15-.293c.855-1.684 2.468-2.743 4.244-2.743Z" fill="url(#fe0d983064924318a8c5407da351e3cd547b8ba1__b)" stroke="#474A4F" stroke-width="0.933"/>
+  <defs>
+    <linearGradient id="fe0d983064924318a8c5407da351e3cd547b8ba1__b" x1="5.905" y1="8.322" x2="20.255" y2="21.223" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#E9EDF2"/>
+    </linearGradient>
+    <filter id="fe0d983064924318a8c5407da351e3cd547b8ba1__a" x="0.512" y="0" width="29.975" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="0.933"/>
+      <feGaussianBlur stdDeviation="1.4"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.197577 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_1_7"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_1_7" result="shape"/>
+    </filter>
+  </defs>
+</svg>
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="0 -16"
+      to="0 0"
+      dur="0.6s"
+      repeatCount="indefinite"
+      keyTimes="0;0.5;1"
+      values="0 -16;0 0;0 0"
+      keySplines="0.2 0.9 0.2 1;0 0 1 1"
+      calcMode="spline"
+    />
+
+    <animateTransform
+      attributeName="transform"
+      type="scale"
+      additive="sum"
+      from="1.5"
+      to="1"
+      dur="0.6s"
+      repeatCount="indefinite"
+    />
+
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      additive="sum"
+      from="15 16 16"
+      to="0 16 16"
+      dur="0.6s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.4s"
+      repeatCount="indefinite"
+    />
+
+    <!-- PASTE YOUR FULL BUBBLE SVG PATHS HERE -->
+    <!-- Everything you posted goes right here -->
+</svg>
